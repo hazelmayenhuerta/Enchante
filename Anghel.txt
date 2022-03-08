@@ -1,3 +1,8 @@
 ARIGATO
+<<<<<<< HEAD
 
 arigathanks
+=======
+dsadas
+dsadasdasf
+>>>>>>> 585b12fc914e510a8411af3e908d0e52f93f4904
